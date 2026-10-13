@@ -1,0 +1,24 @@
+# zuqp
+
+The goal of zuqp is to …
+
+## Installation
+
+You can install the development version of zuqp from
+[GitHub](https://github.com/) with:
+
+``` r
+
+# install.packages("pak")
+pak::pak("pedrobtz/zuqp")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+
+library(zuqp)
+## basic example code
+```
